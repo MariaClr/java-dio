@@ -14,9 +14,5 @@ Este repositório está organizado da seguinte forma:
 - **Exercícios:** Lista de exercícios resolvidos durante o bootcamp.
 - **Projetos:** Projetos desenvolvidos ao longo do curso para aplicação prática dos conhecimentos adquiridos.
 
-## Como Usar
 
-1. **Clone o repositório:**
 
-   ```bash
-   git clone https://github.com/seu-usuario/bootcamp-java-dio-santander.git
